@@ -2,8 +2,8 @@ The goal is to write an algorithm that returns the availabilities of a calendar 
 
 They are two kinds of events:
 
-opening, are the openings for a specific day and they can be recurring week by week (e.g. every monday starting from a certain date)
-appointment, times when the doctor is already booked
+opening -> <br> are the openings for a specific day and they can be recurring week by week (e.g. every monday starting from a certain date) <br>
+appointment-> <br> times when the doctor is already booked
 The entire product specifications are described in the provided test files. In other words, the test files describe the behavior we expect from the algorithn.
 
 
